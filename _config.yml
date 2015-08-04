@@ -1,7 +1,0 @@
-name: "Main site of Mark Yu"
-description: Site by Mark Yu"
-url: "http://yuhao.info"
-timezone: Asia/ShangHai
-paginate: 20
-highlighter: pygments
-permalink: pretty
