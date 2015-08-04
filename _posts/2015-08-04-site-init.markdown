@@ -1,9 +1,0 @@
----
-layout: post
-title:  "关于WPF hwnd host问题"
-date:   2015-08-04 19:00:58
-categories: tech post
----
-<h2>
-	test
-</h2>
