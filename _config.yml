@@ -1,5 +1,9 @@
-name: "Main site of Mark Yu"
-description: "Site by Mark Yu"
+author: sn5diphone6
+title: "Cooking food, coding program"
+github_username: icodingforfood
+email: iprogrammer@live.cn
+name: "Blog site of Mark Yu"
+description: "Blog site by Mark Yu"
 url: "http://yuhao.info"
 timezone: Asia/ShangHai
 paginate: 20
