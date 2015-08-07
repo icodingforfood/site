@@ -1,3 +1,15 @@
+a.button{
+  padding: 1em;
+  cursor: pointer;
+  background: none;
+  text-decoration: none;
+  font-size: 1.2em;
+  color: #666;
+  /* Prevent highlight color when element is tapped */
+  -webkit-tap-highlight-color: rgba(0 , 0, 0, 0);
+}
+
+/* Underline from center, still got issue, not working */
 a.hvr-underline-from-center {
   display: inline-block;
   vertical-align: middle;
@@ -28,5 +40,136 @@ a.hvr-underline-from-center:before {
 }
 a.hvr-underline-from-center:hover:before,a.hvr-underline-from-center:focus:before,a.hvr-underline-from-center:active:before {
   left: 0;
+  right: 0;
+}
+
+/* Round corners */
+a.hvr-round-corners{
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0,0,0,0);
+  -webkit-backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: border-radius;
+  transition-property: border-radius;
+  background: #2098d1;
+}
+a.hvr-round-corners:hover,a.hvr-round-corners:focus,a.hvr-round-corners:active{
+  border-radius: 1em;
+}
+
+/* Underline from left */
+a.hvr-underline-from-left{
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  overflow: hidden;
+  background: #2098d1;
+}
+a.hvr-underline-from-left:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  right: 100%;
+  bottom: 0;
+  background:#38aa38;
+  height: 4px;
+  -webkit-transition-property: right;
+  transition-property: right;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+a.hvr-underline-from-left:hover:before,a.hvr-underline-from-left:focus:before,a.hvr-underline-from-left:active:before {
+  right: 0;
+}
+
+/* Underline from right */
+
+/*
+font-size: 26px;
+  line-height: 56px;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  float: left; 
+*/
+a.hvr-underline-from-right {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  overflow: hidden;
+  text-decoration: none;
+}
+a.hvr-underline-from-right:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 100%;
+  right: 0;
+  bottom: 0;
+  height: 4px;
+  -webkit-transition-property: left;
+  transition-property: left;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+  background: #c8232c;
+  text-decoration: none;
+}
+a.hvr-underline-from-right:hover:before,a.hvr-underline-from-right:focus:before,a.hvr-underline-from-right:active:before {
+  left: 0;
+  text-decoration: none;
+}
+
+/* Overline from left */
+a.hvr-overline-from-left {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+  box-shadow: 0 0 1px rgba(0, 0, 0, 0);
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -moz-osx-font-smoothing: grayscale;
+  position: relative;
+  overflow: hidden;
+  background: #b41494;
+}
+a.hvr-overline-from-left:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  right: 100%;
+  top: 0;
+  background: #2098d1;
+  height: 4px;
+  -webkit-transition-property: right;
+  transition-property: right;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+a.hvr-overline-from-left:hover:before,a.hvr-overline-from-left:focus:before,a.hvr-overline-from-left:active:before {
   right: 0;
 }
