@@ -6,7 +6,11 @@
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
           <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+          
+          <li>
+            <i class="fa fa-envelope-o"></i>
+            <a href="mailto:{{ site.email }}">email to me</a>
+          </li>
         </ul>
       </div>
 
@@ -21,16 +25,14 @@
                 </svg>
               </span>
 
-              <span class="username">{{ site.github_username }}</span>
+              <span class="username">find me on github</span>
             </a>
           </li>
           {% endif %}
         </ul>
       </div>
 
-      <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
-      </div>
+      <div class="footer-col  footer-col-3">{{ site.description }}</div>
     </div>
   </div>
 </footer>

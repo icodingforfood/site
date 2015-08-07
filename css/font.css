@@ -1,0 +1,12 @@
+
+@font-face {
+    font-family: 'my80writer';
+    src: url('../font/1980swriter-webfont.eot');
+    src: url('../font/1980swriter-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../font/1980swriter-webfont.woff2') format('woff2'),
+         url('../font/1980swriter-webfont.woff') format('woff'),
+         url('../font/1980swriter-webfont.ttf') format('truetype'),
+         url('../font/1980swriter-webfont.svg#1980swritermedium') format('svg');
+    font-weight: 42px;
+    font-style: normal;
+}
