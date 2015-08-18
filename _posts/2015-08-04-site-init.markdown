@@ -10,4 +10,5 @@ categories: tech post
 	3. 图标加载问题<br/>
 	4. 布局问题<br/>
 	5. Markdown 语法
-</h2>
+</h2><br/>
+总的来说，问题比较多，正在努力学习中
