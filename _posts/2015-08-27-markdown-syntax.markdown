@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "markdown ayntax"
+title:  "markdown syntax"
 date:   2015-08-27 09:00:58
 categories: tech post
 ---
