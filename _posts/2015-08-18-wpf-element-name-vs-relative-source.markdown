@@ -9,7 +9,7 @@ categories: tech post
 些UIElement的属性）， 这些属性可能是DependencyProperty（依赖属性），也有可能是CLR（Common Language Runtime）属性。
 对于这些属性的绑定，我们可能会去使用ElementName 或RelativeSource去找到对应的属性。
 例如：
-```
+<pre><code>
 <Window x:Class="ElementNameVSRelativeSource.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
@@ -29,4 +29,4 @@ Window},AncestorLevel=1},diag:PresentationTraceSources.TraceLevel=High}"/>
 Window},AncestorLevel=1},diag:PresentationTraceSources.TraceLevel=High}"/>
     </StackPanel>
 </Window>
-```
+</code></pre>
