@@ -108,4 +108,4 @@ namespace WpfApplication1
 }
 {% endhighlight %}
 结果是：
-({{ site.url }}/img/wpfdata_winformevent.png)
+<img src="{{ site.url }}/img/wpfdata_winformevent.png" data-src="{{ site.url }}/img/post/2015-10-9-wpf-data-drive-&-winform-event-drive.png" />
