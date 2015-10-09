@@ -91,13 +91,13 @@ namespace WpfApplication1
     /// </summary>
     public partial class MainWindow : Window
     {
-        public ObservableCollection<;Person> People { get; set; }
+        public ObservableCollection<Person> People { get; set; }
  
         public MainWindow()
         {
             InitializeComponent();
  
-            People = new ObservableCollection<;Person> 
+            People = new ObservableCollection<Person> 
             {
                 new Solider{ Name = "Barry", Gender="Female", Status = "Solider", Age = 23, Type = "Air Force"},
                 new Student { Name = "Tom", Age = 18, Gender = "Male", Grade = "Grade one" , School = "zhongshan zhongxue"  },
@@ -107,5 +107,5 @@ namespace WpfApplication1
     }
 }
 {% endhighlight %}
-结果是：
+结果是：<a href="{{ site.url }}/assets/WpfApplication1.zip" class="dsq-brlink hvr-underline-from-right"> attachment</a>
 <img src="{{ site.url }}/img/wpfdata_winformevent.png" data-src="{{ site.url }}/img/post/2015-10-9-wpf-data-drive-&-winform-event-drive.png" />
