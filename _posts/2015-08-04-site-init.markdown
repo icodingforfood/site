@@ -10,6 +10,6 @@ categories: tech post
 	3. 图标加载问题<br/>
 	4. 布局问题<br/>
 	5. Markdown 语法<br/>
-	6. Web front end<a href="https://github.com/baidu-ife/ife">参考baidu ife</a>
+	6. Web front end<a class="dsq-brlink hvr-underline-from-right" href="https://github.com/baidu-ife/ife">参考baidu ife</a>
 </h2><br/>
 总的来说，问题比较多，正在努力学习中

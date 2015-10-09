@@ -8,7 +8,7 @@ WPF Calendar控件是在2010年加入的。对于Calendar控件有一个问题�
 所以解决方案如下：<br/>
 override OnPreviewMouseUp 
 <br/>
-{% highlight ruby %}
+{% highlight csharp linenos %}
 protected override void OnPreviewMouseUp(MouseButtonEventArgs e)
 {
     base.OnPreviewMouseUp(e);
