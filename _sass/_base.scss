@@ -14,6 +14,11 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
+    width: 100%;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
     font-family: $base-font-family;
     font-size: $base-font-size;
     line-height: $base-line-height;
