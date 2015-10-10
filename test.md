@@ -1,10 +1,3 @@
----
-layout: default
-title: My Blog
-permalink: /test/
----
-
-
 
 {% if paginator.total_pages > 1 %}
 <div class="pagination">

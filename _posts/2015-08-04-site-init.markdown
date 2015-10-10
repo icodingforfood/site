@@ -6,7 +6,7 @@ categories: tech post
 ---
 <h2>
 	1. Liquid 语法<br/>
-	2. js<br/>
+	2. JavaScript<br/>
 	3. 图标加载问题<br/>
 	4. 布局问题<br/>
 	5. Markdown 语法<br/>
