@@ -246,15 +246,16 @@ function start() {
 		}
 	}
 
-	var event = isPC ? {
+	var event = {
 		pageX: window.innerWidth / 2,
 		pageY: window.innerHeight / 2
-	} : {
-			pageX: window.innerWidth / 2,
-			pageY: window.innerHeight / 4
-		}
+	}
 
-	onClick(event);
+    if (isPC) {
+		onClick(event);
+	} else {
+		document.body.style.backgroundColor = options.color;
+	}
 }
 
 setTimeout(start, 1000);
