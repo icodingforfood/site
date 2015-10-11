@@ -1,0 +1,11 @@
+body {
+  background-color: red;
+  color: white;
+  background: green;
+  background: blue;
+  
+  background: yellow;
+  
+  
+  background: black;
+  }

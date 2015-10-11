@@ -225,8 +225,6 @@ function onClick(event) {
 
 }
 
-
-
 function start() {
 
 	var event = {
