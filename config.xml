@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<settings>	
+
+		<auto_play>
+			<defaults symbol="circular" /><!--倒计时按钮的位置-->
+			<tweenIn x="1400" y="150" width="30" height="30" tint="0xFFFFFF" alpha="0.7"/>
+			<tweenOver alpha="1"/>
+		</auto_play>
+	
+		<prev_button><!--左右翻页按钮的位置-->				
+			<tweenIn x="1370" y="680" width="30" height="30" alpha="0" />
+			<tweenOver alpha="0" />
+		</prev_button>
+		
+		<next_button>			
+			<tweenIn x="1400" y="680" width="30" height="30" alpha="0" />
+			<tweenOver alpha="0" />
+		</next_button>
+		
+		<prev_symbol>
+			<defaults type="3" />
+			<tweenIn x="1370" y="680" alpha="0.7"  />
+			<tweenOver time="0.15" x="1365" scaleX="1.1" scaleY="1.1" />
+		</prev_symbol>
+			
+		<next_symbol>
+			<defaults type="3" />
+			<tweenIn x="1400" y="680" alpha="0.7"/>
+			<tweenOver time="0.15" x="1395" scaleX="1.1" scaleY="1.1" />
+		</next_symbol>		
+
+		<description>
+			<defaults 
+				round_corners="10, 10, 10, 10"					
+				heading_text_size="24"
+				heading_text_color="0xfc9900"	
+				paragraph_text_size="18"
+				paragraph_text_color="0xFFFFFF"					
+			/>
+			<tweenIn x="560" y="440" width="560" height="150" alpha="0.7" />
+			<tweenOver alpha="0.9"/>
+		</description>	
+	
+		<transitions
+			slicing="vertical" 
+			direction="down"
+			duration="0.6" 
+			delay="0.2"
+			cube_color="0x611811"
+		/>
+	
+	</settings>
+
+
+	<slides>
+	
+		<slide>
+			<url>images/slide_1.jpg</url>
+			<description>
+		    <link target="_blank">http://www.larahits.com</link>
+			<heading>独角兽家庭娱乐中心</heading>
+			<paragraph>独角兽家庭娱乐中心是上海平原网络科技有限公司开发的一款横跨 PC 和 TV 的游戏娱乐系统</paragraph>
+			</description>	
+		</slide>
+		
+		<transition direction="left"/>		
+		
+		<slide>
+			<url>images/slide_2.jpg</url>
+			<description>
+		    <link target="_blank">http://www.larahits.com</link>
+			<heading>独角兽家庭娱乐中心</heading>
+			<paragraph>客厅式化的操作设计, 采用类似游戏主机的交互和 UI 设计，支持全手柄操控，兼容键盘鼠标
+			</paragraph>
+			</description>	
+		</slide>
+		
+		<transition duration="0.6" delay=".2" direction="down"/>		
+		
+		<slide>
+			<url>images/slide_3.jpg</url>
+			<description>
+		    <link target="_blank">http://www.larahits.com</link>
+			<heading>独角兽家庭娱乐中心</heading>
+			<paragraph>游戏联机对战，在线聊天
+			</paragraph>
+			</description>		
+		</slide>	
+		
+		<transition num="3" slicing="horizontal" direction="left" delay="0.05"/>			
+		
+		<slide>
+			<url>images/slide_4.jpg</url>
+			<description>
+		    <link target="_blank">http://www.larahits.com</link>
+			<heading>独角兽家庭娱乐中心</heading>
+			<paragraph>内置基于 BT 的下载内核，支持多任务下载，支持断点续传。下载完毕后能自动安装游戏，打补丁
+			</paragraph>
+			</description>	
+		</slide>
+			
+		<transition num="3"/>		
+		
+		<slide>
+			<url>images/slide_5.jpg</url>
+			<description>
+		    <link target="_blank">http://www.larahits.com</link>
+			<heading>独角兽家庭娱乐中心</heading>
+			<paragraph>强大的视频解码库，支持网络流媒体，支持视频全格式，专业级的高清支持，为你配置豪华家庭影院	
+			</paragraph>
+			</description>	
+		</slide>	
+					
+		<transition  num="6" slicing="horizontal"  direction="right" duration="0.8"  delay="0.05" z_multiplier="5"/>	
+		
+		<slide>
+			<url>images/slide_6.jpg</url>
+			<description>
+		    <link target="_blank">http://www.larahits.com</link>
+			<heading>独角兽家庭娱乐中心</heading>
+			<paragraph>玩家必备商店
+			</paragraph>
+			</description>	
+		</slide>				
+		
+		<transition num="6" slicing="vertical" direction="down" shader="phong" delay="0.05"/>			
+		
+		<slide>
+			<url>images/slide_7.jpg</url>
+			<description>
+		    <link target="_blank">http://www.larahits.com</link>
+			<heading>独角兽家庭娱乐中心</heading>
+			<paragraph>高度可扩展性，适合于通过安装扩展应用的方式来增加软件功能，支持插件式应用以及安卓应用
+			</paragraph>
+			</description>	
+		</slide>				
+		
+		<transition num="4" direction="down" slicing="horizontal" z_multiplier="6" delay="0.1"/>	
+		
+		<slide>
+			<url>images/slide_8.jpg</url>
+			<description>
+		    <link target="_blank">http://www.larahits.com</link>
+			<heading>独角兽家庭娱乐中心</heading>
+			<paragraph>自动检测配置游戏运行环境，轻松解决各种游戏环境不全导致的游戏无法运行问题，让你方便无忧的玩游戏
+			</paragraph>
+			</description>	
+		</slide>				
+		
+		<transition num="4" direction="up" z_multiplier="2.5" delay="0.03"/>			
+		
+		<slide>
+			<url>images/slide_9.jpg</url>
+			<description>
+		    <link target="_blank">http://www.larahits.com</link>
+			<heading>独角兽家庭娱乐中心</heading>
+			<paragraph>方便快捷的辅助功能
+			</paragraph>
+			</description>	
+		</slide>				
+		
+		<transition direction="right"/>			
+		
+		<slide>
+			<url>images/slide_10.jpg</url>
+			<description>
+		    <link target="_blank">http://www.larahits.com</link>
+			<heading>独角兽家庭娱乐中心</heading>
+			<paragraph>支持Wii体感游戏
+			</paragraph>
+			</description>	
+		</slide>				
+		
+		<transition num="3" direction="up"/>	
+		
+		<slide>
+			<url>images/slide_11.jpg</url>	
+			<description>
+		    <link target="_blank">http://www.larahits.com</link>
+			<heading>独角兽家庭娱乐中心</heading>
+			<paragraph>连接Wifi
+			</paragraph>
+			</description>	
+		</slide>				
+			
+	</slides>
+</data>
+
