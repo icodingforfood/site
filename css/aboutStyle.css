@@ -1,0 +1,17 @@
+.sovog
+{
+  background-color: black;
+  bottom: 10px;
+}
+.objro{ display: none; }
+.codingBot{ display: none; }
+#HeorSheSay
+{ 
+  width: 500px; 
+  left: 180px;
+  word-break: break-all;
+}
+.hide
+{
+  display: none !important;
+}
