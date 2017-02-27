@@ -3,9 +3,13 @@ title: "Cooking food, coding program"
 github_username: icodingforfood
 email: iprogrammer@live.cn
 name: "Blog site of Mark Yu"
+engname: "Mark Yu"
+phone: "+86 18516094231"
+linkedin: "mark-yu-b3747857"
 description: "Blog site by Mark Yu, all right reserved. Powered by Jekyll"
 url: "http://yuhao.info"
 timezone: Asia/ShangHai
 paginate: 20
 highlighter: pygments
 permalink: pretty
+encoding: utf-8
