@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "introduction of unicorn game platform"
+title:  "独角兽游戏平台介绍"
 date:   2016-07-07 21:22:13
 categories: tech post
+tags: ['tech', 'product']
+author: "hao2blog"
 ---
 独角兽娱乐中心是一款安装之后可以让普通电脑成为客厅娱乐中心，拥有类似XBOX、PS主机一般的强大游戏功能，高清播放机、蓝光播放机一般的高清播放功能的一套软件。<br/>
 其包括一下特点：<br/>

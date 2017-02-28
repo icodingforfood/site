@@ -3,6 +3,8 @@ layout: post
 title:  "have a crush on a girl"
 date:   2016-12-08 15:15:44
 categories: sentiment
+tags: ['sentiment', 'lyrics']
+author: "hao2blog"
 ---
 {% highlight text sg %}
 也許是我太笨吧

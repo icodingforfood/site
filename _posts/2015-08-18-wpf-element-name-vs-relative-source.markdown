@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "wpf element name vs relative source"
+title:  "wpf 元素名称 vs 相对资源"
 date:   2015-08-18 19:00:58
 categories: tech post
+tags: ['tech', 'wpf']
+author: "hao2blog"
 ---
 在WPF程序开发过程中，我们可能经常会绑定一些属性（既可能是ViewModel里的一些属性，也可能是对应的View的CodeBehind的一些属性，还有可能是View里面其他一些UIElement的属性），这些属性可能是DependencyProperty（依赖属性），也有可能是CLR（Common Language Runtime）属性。
 <br/>

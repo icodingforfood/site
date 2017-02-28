@@ -3,6 +3,8 @@ layout: post
 title:  "lemon tree"
 date:   2016-12-11 20:36:39
 categories: sentiment
+tags: ['sentiment', 'lyrics']
+author: "hao2blog"
 ---
 {% highlight text sg %}
 ---Lemon Tree-Fool's Garden, 1994, 《Dish Of The Day》 ---

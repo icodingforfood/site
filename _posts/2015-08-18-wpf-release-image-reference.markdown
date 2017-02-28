@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "wpf release image reference"
+title:  "wpf 释放图片资源引用"
 date:   2015-08-18 19:00:58
 categories: tech post
+tags: ['tech', 'wpf']
+author: "hao2blog"
 ---
 在我们使用Image绑定图片资源时，如果有另外一个进程去修改被引用的资源是会抛资源被另外一进程占用
 <br/>

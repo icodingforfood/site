@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "wpf data drive & winform event drive"
+title:  "wpf 数据驱动 & winform 事件驱动"
 date:   2015-10-09 8:41:40
 categories: tech post
+tags: ['tech', 'wpf']
+author: "hao2blog"
 ---
 《Unix编程艺术》Eric S. Raymond 提到<br/>
 数据比程序逻辑更易驾驭。尽可能把设计的复杂度从代码转移至数据是个好实践。<br/>

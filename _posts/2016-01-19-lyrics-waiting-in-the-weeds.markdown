@@ -3,6 +3,8 @@ layout: post
 title:  "lyrics-waiting in the weeds"
 date:   2016-01-19 17:09:38
 categories: sentiment
+tags: ['sentiment', 'lyrics']
+author: "hao2blog"
 ---
 {% highlight text sg %}
 It's comin' on the end of August

@@ -3,6 +3,8 @@ layout: post
 title:  "建站中遇到的问题 note"
 date:   2015-08-04 19:00:58
 categories: tech post
+tags: ['tech', 'initial']
+author: "hao2blog"
 ---
 <h2>
 	1. Liquid 语法<br/>

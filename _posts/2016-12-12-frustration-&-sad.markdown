@@ -3,6 +3,8 @@ layout: post
 title:  "frustration & sad"
 date:   2016-12-12 20:35:11
 categories: sentiment
+tags: ['sentiment', 'lyrics']
+author: "hao2blog"
 ---
 {% highlight text sg %}
 找妹子說話, 沒有搭理我, 不知道什麼地方有問題, 心情很低落!

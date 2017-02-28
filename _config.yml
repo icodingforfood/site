@@ -1,5 +1,5 @@
 author: sn5diphone6
-title: "Cooking food, coding program"
+title: "hao2blog@coding"
 github_username: icodingforfood
 email: iprogrammer@live.cn
 name: "Blog site of Mark Yu"
@@ -14,3 +14,16 @@ highlighter: pygments
 permalink: pretty
 encoding: utf-8
 firsttheme: "20170228"
+
+#mt material theme-----------------start
+isolang: en
+close_btn: "Close"
+home_btn: "Home"
+projects_btn: "Projects"
+posts_btn: "Posts"
+imprint_btn: "Imprint"
+name_badge: "an article by"
+rss_badge: "Subscribe feed!"
+about: "Mark Yu, a passionate C# developer. Focus on Web, UX, WPF, VR"
+location: "ShangHai, China"
+#mt material theme-----------------end

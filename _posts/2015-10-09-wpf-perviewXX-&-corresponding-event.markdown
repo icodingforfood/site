@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "wpf perviewXX & corresponding event"
+title:  "wpf perviewXX事件 & 对应事件"
 date:   2015-10-09 9:21:29
 categories: tech post
+tags: ['tech', 'wpf']
+author: "hao2blog"
 ---
 在WPF中说起事件，那就要说下路由事件<br/>
 路由事件与一般事件的区别在于：路由事件是一种用于元素树的事件，当路由事件触发后，它可以向上或向下遍历可视树和逻辑树，他用一种简单而持久的方式在每个元素上触发，而不需要任何定制的代码（如果用传统的方式实现一个操作，执行过个事件的调用则需要执行代码将事件串连起来方可）<br/>
