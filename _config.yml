@@ -13,3 +13,4 @@ paginate: 20
 highlighter: pygments
 permalink: pretty
 encoding: utf-8
+firsttheme: "20170228"
