@@ -7,5 +7,5 @@ tags: ['sentiment']
 author: "hao2blog"
 ---
 {% highlight text sg %}
-世間唯有代碼, 愛情與美食不可辜負
+世間唯有愛情, 代碼與美食不可辜負
 {% endhighlight %}
