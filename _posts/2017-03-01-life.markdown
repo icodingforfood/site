@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "life"
+date:   2016-12-12 20:35:11
+categories: sentiment
+tags: ['sentiment']
+author: "hao2blog"
+---
+{% highlight text sg %}
+世間唯有代碼, 愛情與美食不可辜負
+{% endhighlight %}
