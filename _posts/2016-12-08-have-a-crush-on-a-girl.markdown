@@ -7,8 +7,6 @@ tags: ['sentiment', 'lyrics']
 author: "hao2blog"
 ---
 {% highlight text sg %}
-也許是我太笨吧
-壹個多月的煎熬， 不知道怎麼表達
 ---蔡健雅 -越來越不懂---
 在 我22歲時
 回想起當時多麽想談戀愛
