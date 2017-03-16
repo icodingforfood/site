@@ -8,7 +8,6 @@ author: "hao2blog"
 ---
 {% highlight text sg %}
 暂时无意于写分享技术的博客， 转为关注美食了， 决定分享全国各地的特色美食
-
 1. 广州美食...
 2. coming soon
 {% endhighlight %}
