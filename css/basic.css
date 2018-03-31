@@ -1,0 +1,234 @@
+BODY {
+	FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: 宋体
+}
+A:link {
+	COLOR: black; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: black; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #19a7ff; TEXT-DECORATION: underline
+}
+A:active {
+	COLOR: black; TEXT-DECORATION: none
+}
+A.more:link {
+	COLOR: #19a7ff; TEXT-DECORATION: none
+}
+A.more:visited {
+	COLOR: #19a7ff; TEXT-DECORATION: none
+}
+A.more:hover {
+	COLOR: #19a7ff; TEXT-DECORATION: none
+}
+A.more:active {
+	COLOR: #19a7ff; TEXT-DECORATION: none
+}
+A.more1:link {
+	COLOR: #19a7ff; TEXT-DECORATION: none; font-weight: bold
+}
+A.more1:visited {
+	COLOR: #19a7ff; TEXT-DECORATION: none; font-weight: bold
+}
+A.more1:hover {
+	COLOR: #19a7ff; TEXT-DECORATION: none; font-weight: bold
+}
+A.more1:active {
+	COLOR: #19a7ff; TEXT-DECORATION: none; font-weight: bold
+}
+A.more2:link {
+	COLOR: #19a7ff; TEXT-DECORATION: none; font-weight: bold; font-size: 14px
+}
+A.more2:visited {
+	COLOR: #19a7ff; TEXT-DECORATION: none; font-weight: bold; font-size: 14px
+}
+A.more2:hover {
+	COLOR: #19a7ff; TEXT-DECORATION: none; font-weight: bold; font-size: 14px
+}
+A.more2:active {
+	COLOR: #19a7ff; TEXT-DECORATION: none; font-weight: bold; font-size: 14px
+}
+A.more3:link {
+	COLOR: #ffffff; TEXT-DECORATION: none; font-weight: bold; font-size: 14px
+}
+A.more3:visited {
+	COLOR: #ffffff; TEXT-DECORATION: none; font-weight: bold; font-size: 14px
+}
+A.more3:hover {
+	COLOR: #ffffff; TEXT-DECORATION: none; font-weight: bold; font-size: 14px
+}
+A.more3:active {
+	COLOR: #ffffff; TEXT-DECORATION: none; font-weight: bold; font-size: 14px
+}
+A.more4:link {
+	COLOR: #04B0E0; TEXT-DECORATION: none
+}
+A.more4:visited {
+	COLOR: #04B0E0; TEXT-DECORATION: none
+}
+A.more4:hover {
+	COLOR: #04B0E0; TEXT-DECORATION: none
+}
+A.more4:active {
+	COLOR: #04B0E0; TEXT-DECORATION: none
+}
+.notice {
+	PADDING-LEFT: 16px; LINE-HEIGHT: 20px
+}
+.date {
+	PADDING-LEFT: 38px; PADDING-TOP: 6px; COLOR: white
+}
+.news {
+	PADDING-LEFT: 38px; LINE-HEIGHT: 24px; PADDING-TOP: 4px; LETTER-SPACING: 1px
+}
+.news1 {
+	PADDING-LEFT: 29px; LINE-HEIGHT: 24px; PADDING-TOP: 4px; LETTER-SPACING: 1px
+}
+.net {
+	PADDING-LEFT: 30px; WORD-SPACING: 5px; LINE-HEIGHT: 28px; LETTER-SPACING: 2px
+}
+.two {
+	color: #04B0E0; LETTER-SPACING: 1px
+}
+.guidetd {
+	PADDING-LEFT: 36px; LINE-HEIGHT: 30px
+}
+.guidetd01 {
+	PADDING-LEFT: 36px; VERTICAL-ALIGN: top; LINE-HEIGHT: 23px
+}
+A.guide:link {
+	FONT-WEIGHT: bold; COLOR: #0073ff
+}
+A.guide:visited {
+	FONT-WEIGHT: bold; COLOR: #0073ff
+}
+A.guide:hover {
+	FONT-WEIGHT: bold; COLOR: #0073ff
+}
+A.guide:active {
+	FONT-WEIGHT: bold; COLOR: #0073ff
+}
+.servicetd {
+	PADDING-LEFT: 16px; LINE-HEIGHT: 26px
+}
+.servicetd01 {
+	PADDING-LEFT: 34px; VERTICAL-ALIGN: top; LINE-HEIGHT: 30px
+}
+A.service:link {
+	FONT-WEIGHT: bold; COLOR: #0073ff
+}
+A.service:visited {
+	FONT-WEIGHT: bold; COLOR: #0073ff
+}
+A.service:hover {
+	FONT-WEIGHT: bold; COLOR: #0073ff
+}
+A.service:active {
+	FONT-WEIGHT: bold; COLOR: #0073ff
+}
+.hq {
+	LINE-HEIGHT: 20px; PADDING-TOP: 3px
+}
+.win {
+	LINE-HEIGHT: 24px; PADDING-TOP: 7px
+}
+.fr {
+	PADDING-LEFT: 12px
+}
+.frlogo {
+	PADDING-LEFT: 14px; LINE-HEIGHT: 30px
+}
+.frlogo1 {
+	PADDING-LEFT: 11px; LINE-HEIGHT: 30px
+}
+.mail {
+	PADDING-LEFT: 10px
+}
+.mail1 {
+	PADDING-LEFT: 14px
+}
+.foot {
+	COLOR: #000000; LINE-HEIGHT: 18px; PADDING-TOP: 4px; LETTER-SPACING: 2px
+}
+A.footln:link {
+	COLOR: #000000
+}
+A.footln:visited {
+	COLOR: #000000
+}
+A.footln:hover {
+	COLOR: #000000
+}
+A.footln:active {
+	COLOR: #000000
+}
+.inner {
+	LINE-HEIGHT: 20px;PADDING-TOP: 4px
+}
+.zx {
+	LINE-HEIGHT: 25px;PADDING-TOP: 4px
+}
+.zx1 {
+	LINE-HEIGHT: 18px;PADDING-TOP: 4px
+}
+.loc {
+	COLOR: #0053A3; PADDING-TOP: 15px
+}
+A.locln:link {
+	COLOR: #0053A3
+}
+A.locln:visited {
+	COLOR: #0053A3
+}
+A.locln:hover {
+	COLOR: #0053A3
+}
+A.locln:active {
+	COLOR: #0053A3
+}
+.newf {
+	PADDING-LEFT: 20px
+}
+.result {
+	FONT-WEIGHT: bold; COLOR: #20416c
+}
+.result01 {
+	LETTER-SPACING: 2px
+}
+.result02 {
+	FONT-WEIGHT: bold; COLOR: #20416c; TEXT-ALIGN: center
+}
+.result11 {
+	FONT-WEIGHT: bold; COLOR: #20416c
+}
+.county {
+	PADDING-LEFT: 44px; PADDING-TOP: 2px
+}
+.second {
+	PADDING-LEFT: 44px
+}
+.zrxx {
+	LINE-HEIGHT: 24px
+}
+.zxfk {
+	LINE-HEIGHT: 24px
+}
+.img {
+	PADDING-LEFT: 20px
+}
+.phone {
+	PADDING-LEFT: 8px
+}
+A.simple:link {
+	FONT-WEIGHT: bold; COLOR: #004c99; TEXT-DECORATION: none
+}
+A.simple:visited {
+	FONT-WEIGHT: bold; COLOR: #004c99; TEXT-DECORATION: none
+}
+A.simple:hover {
+	FONT-WEIGHT: bold; COLOR: #004c99; TEXT-DECORATION: none
+}
+A.simple:active {
+	FONT-WEIGHT: bold; COLOR: #004c99; TEXT-DECORATION: none
+}
